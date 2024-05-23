@@ -24,7 +24,7 @@
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="33" alt="mongodb logo"  />
   <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="33" alt="laravel logo"  />
+  <img src="https://laravel.com/img/logomark.min.svg" height="33" alt="laravel logo"  />
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="33" alt="php logo"  />
   <img width="13" />
