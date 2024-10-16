@@ -25,10 +25,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="33" alt="mongodb"  />
   <img width="13" />
   <img src="https://laravel.com/img/logomark.min.svg" height="33" alt="laravel logo"  />
-
+  <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="33" alt="php"  />
+  <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="33" alt="mysql"  />
+  <img width="13" />
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="33" alt="flutter"  />
+  <img width="13" />
+  <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" height="33" alt="react native"  />
 </div>
 
 ###
